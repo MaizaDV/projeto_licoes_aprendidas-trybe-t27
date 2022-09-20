@@ -20,3 +20,19 @@ h1 {
   padding-right: 150px;
   border: 2px blue solid;
 }
+
+aside {
+  width: 20%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: cornflowerblue;
+  color: aliceblue;
+}
+
+article {
+  line-height: 120%;
+  font-family: sans-serif;
+  font-size: medium;
+}
