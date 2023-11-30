@@ -9,28 +9,19 @@
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
 
-<h2>Sobre o Projeto</h2>
-	<p>
-		Página estática com informações e curiosidades sobre mim, feita com o intuito de reconher o quanto eu evoluí ao longo da minha jornada como dev, e lembrar que sempre começamos de algum lugar.
-	</p>
-	<p>
-		O Projeto está feito com o conhecimento inicial da minha jornada em programação.
-	</p>
-	<p>
-		Arquivos de teste e configuração feitos pela Trybe.
-	</p>
-	<p>
-		Arquivos index.html, style.css e readme feitos por mim.
-	</p>
+## Sobre o Projeto
+Página estática com informações e curiosidades sobre mim, feita com o intuito de reconher o quanto eu evoluí ao longo da minha jornada como dev, e lembrar que sempre começamos de algum lugar.
 
-<h2>Motivação</h2>
-	<p>
-		Neste Projeto, desenvolvi uma página, do zero, utilizando HTML e CSS, visando consolidar todo o conhecimento adquirido durante a primeira seção da Trybe, com elementos posicionados, estilizados e com semântica apropriada para ser acessível e melhor ranqueado.
-	</p>
+O Projeto está feito com o conhecimento inicial da minha jornada em programação.
 
-<h2>🚧 A página 🚧</h2>
+Arquivos de teste e configuração feitos pela Trybe.
 
-[em construção](https://github.com/MaizaDV/projeto_licoes_aprendidas-trybe-t27)
+Arquivos index.html, style.css e readme feitos por mim.
+
+- [Link para a página](https://maizadv.github.io/projeto_licoes_aprendidas-trybe-t27/)
+
+## Motivação
+Neste Projeto, desenvolvi uma página, do zero, utilizando HTML e CSS, visando consolidar todo o conhecimento adquirido durante a primeira seção da Trybe, com elementos posicionados, estilizados e com semântica apropriada para ser acessível e melhor ranqueado.
 
 <h3 align="center">Linguagens</h3>
     <p align="center">
